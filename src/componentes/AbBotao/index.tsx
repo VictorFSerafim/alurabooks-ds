@@ -36,5 +36,4 @@ export const AbBotao = ({texto, onClick, tipo='primario'}:AbBotaoProps) =>{
         </BotaoEstilizado>
     )
 }
-export default AbBotao;
 
